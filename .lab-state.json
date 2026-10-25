@@ -34,5 +34,7 @@
   "testProfile": "test",
   "appId": "f1d94682-cd5a-4913-af43-6f0775b134bb",
   "productTableScaffolded": true,
-  "productTableDeployed": true
+  "productTableDeployed": true,
+  "connectorScaffolded": true,
+  "connectorDeployed": true
 }
